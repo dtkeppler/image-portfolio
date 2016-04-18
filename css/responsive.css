@@ -21,12 +21,12 @@
   PAGE: PORTFOLIO
   ****************/
   
-  #gallery li {
+  .gallery li {
     width: 28.3333%;
   }
   
   /* keeps 4th image from being bumped by 1st image caption*/
-  #gallery li:nth-child(4n) {
+  .gallery li:nth-child(4n) {
     clear: left;
   }
 

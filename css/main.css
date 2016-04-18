@@ -70,13 +70,13 @@ h2 {
 PAGE: PORTFOLIO
 ****************/
 
-#gallery {
+.gallery {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-#gallery li {
+.gallery li {
   float: left;
   width: 45%;
   margin: 2.5%;
@@ -84,7 +84,7 @@ PAGE: PORTFOLIO
   color: #bdc3c7;
 }
 
-#gallery li a p {
+.gallery li a p {
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
